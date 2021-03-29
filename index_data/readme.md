@@ -9,3 +9,8 @@ The djia_historicalData.csv file is ready to use and to be preprocessed and clea
 The vix_history.csv file is ready to use and to be preprocessed and cleaned. <br/>
 The every index file is not ready to use. This is just an example of some of the possible data that can be returned from wharton wrds. <br/>
 I can refine my query and get any specific data we may want or need from wharton wrds database. <br/>
+
+
+I believe this api could be used to return cryptocurrency data: https://www.coinapi.io/ <br/>
+with this data we could then calculate a weighted average formula and create our own "crypto index"<br/>
+https://cci30.com/ this crypto index is a really good visualization, however I have not found a csv download for this data <br/>
