@@ -1,4 +1,4 @@
-## Here are various datasets from government reporting agencies: <br/><br/>
+## Here are various datasets from government reporting agencies (these are the links for the files uploaded in this folder): <br/><br/>
 These datasets represent inflation rates, unemployment rates, and treasury rates <br/><br/>
 The data is represented for various metrics some dating backwards and some predicting forwards<br/><br/>
 Here are the sites for the provided datasets:<br/><br/>
@@ -11,7 +11,7 @@ Unemployment Rate (UNRATE): https://fred.stlouisfed.org/series/UNRATE <br/><br/>
 FRED ECONOMIC INTEREST RATE SPREADS (where I found a lot of datasets, more than I downloaded, very useful for inflation and treasury analysis): https://fred.stlouisfed.org/categories/33446 <br/><br/><br/><br/>
 
 
-## Here are the main sites where all the data, charts, and additional datasets can be located: <br/><br/>
+## Here are the main sites where all the data, charts, and additional datasets can be located (not uploaded to this folder, but can be if needed): <br/><br/>
 (note additional datasets of interest may be found at these locations): <br/><br/>
 FRED TREASURY INFLATION INDEXED SECURITIES (idk what this is but could be useful for comparing treasury rates to inflation rates): https://fred.stlouisfed.org/categories/82 <br/><br/>
 FRED Economic datasets: https://fred.stlouisfed.org/tags/series?t=inflation <br/><br/>
@@ -21,7 +21,7 @@ FRED Economic Money and Banking Categories: https://fred.stlouisfed.org/categori
 ALL OF THE FRED ECONOMIC CATEGORIES FOR ANY ECONOMIC DATASET YOU COULD EVER WANT: https://fred.stlouisfed.org/categories <br/><br/><br/><br/>
 
 
-## Also, the Bureau of Labor Statistics may  have data of interest: <br/><br/>
+## Also, the Bureau of Labor Statistics may  have data of interest (not uploaded to this folder, but can be if needed): <br/><br/>
 Here is a break down and summary of what the Consumer Price Index is as well as CPI data: https://www.bls.gov/news.release/cpi.nr0.htm<br/>
 ^^ Here is a definition of CPI from investopedia.com (https://www.investopedia.com/terms/c/consumerpriceindex.asp#:~:text=The%20Consumer%20Price%20Index%20measures,of%20the%20government's%20economic%20policy.): <br/><br/>
 The Consumer Price Index measures the average change in prices over time that consumers pay for a basket of goods and services. <br/><br/>
@@ -29,12 +29,12 @@ CPI is the most widely used measure of inflation and, by proxy, of the effective
 CPI is important for measuring inflation. There is also the producer price index which may be of interest.  <br/><br/><br/><br/>
 
 
-## Here are additional charts, data, and datasets form the Bureau of Labor Statistics: 
+## Here are additional charts, data, and datasets form the Bureau of Labor Statistics (not uploaded to this folder, but can be if needed): 
 https://www.bls.gov/charts/home.htm<br/>
 ^^ these datasets include analysis on unemployment, inflation, and overall economic health. <br/><br/><br/>
 
 
-## Here is the BLS's website for "12-month percentage change, Consumer Price Index, selected categories":
+## Here is the BLS's website for "12-month percentage change, Consumer Price Index, selected categories" (not uploaded to this folder, but can be if needed):
 https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm# <br/><br/><br/>
 
 ## Here is the BLS's page for the CPI home for researching CPI datasets: 
