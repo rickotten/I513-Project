@@ -17,7 +17,7 @@ FRED TREASURY INFLATION INDEXED SECURITIES (idk what this is but could be useful
 FRED Economic datasets: https://fred.stlouisfed.org/tags/series?t=inflation <br/><br/>
 FRED Economic main landing page: https://www.stlouisfed.org/ (also note, FRED economic snapshot is located on main page, with key datasets) <br/><br/>
 FRED Economic Interest Rate Categories: https://fred.stlouisfed.org/categories/22  <br/><br/>
-FRED Economic Money and Banking Categories: https://fred.stlouisfed.org/categories/32991<br/>
+FRED Economic Money and Banking Categories: https://fred.stlouisfed.org/categories/32991<br/><br/>
 ALL OF THE FRED ECONOMIC CATEGORIES FOR ANY ECONOMIC DATASET YOU COULD EVER WANT: https://fred.stlouisfed.org/categories <br/><br/><br/><br/>
 
 
