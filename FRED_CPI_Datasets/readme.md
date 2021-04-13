@@ -22,17 +22,17 @@ ALL OF THE FRED ECONOMIC CATEGORIES FOR ANY ECONOMIC DATASET YOU COULD EVER WANT
 
 
 Also, the Bureau of Labor Statistics may  have data of interest: <br/><br/>
-Here is a break down and summary of what the Consumer Price Index is as well as CPI data: https://www.bls.gov/news.release/cpi.nr0.htm<br/><br/> 
+Here is a break down and summary of what the Consumer Price Index is as well as CPI data: https://www.bls.gov/news.release/cpi.nr0.htm<br/>
 ^^ Here is a definition of CPI from investopedia.com (https://www.investopedia.com/terms/c/consumerpriceindex.asp#:~:text=The%20Consumer%20Price%20Index%20measures,of%20the%20government's%20economic%20policy.): <br/><br/>
 The Consumer Price Index measures the average change in prices over time that consumers pay for a basket of goods and services. <br/><br/>
 CPI is the most widely used measure of inflation and, by proxy, of the effectiveness of the government's economic policy. <br/><br/>
 CPI is important for measuring inflation. There is also the producer price index which may be of interest.  <br/><br/><br/><br/>
 
 
-Here are additional charts, data, and datasets form the Bureau of Labor Statistics: https://www.bls.gov/charts/home.htm 
-^^ these datasets include analysis on unemployment, inflation, and overall economic health. <br/><br/><br/><br/>
+Here are additional charts, data, and datasets form the Bureau of Labor Statistics: https://www.bls.gov/charts/home.htm<br/>
+^^ these datasets include analysis on unemployment, inflation, and overall economic health. <br/><br/><br/>
 
 
-Here is the BLS's website for "12-month percentage change, Consumer Price Index, selected categories": https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm# <br/><br/><br/><br/>
+Here is the BLS's website for "12-month percentage change, Consumer Price Index, selected categories": https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm# <br/><br/><br/>
 
-Here is the BLS's page for the CPI home for researching CPI datasets: https://www.bls.gov/cpi/ <br/><br/><br/><br/>
+Here is the BLS's page for the CPI home for researching CPI datasets: https://www.bls.gov/cpi/ <br/><br/><br/>
