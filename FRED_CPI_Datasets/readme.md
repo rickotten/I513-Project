@@ -8,7 +8,7 @@ Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CP
 5-Year Breakeven Inflation Rate (T5YIE): https://fred.stlouisfed.org/series/T5YIE <br/><br/>
 5-Year, 5-Year Forward Inflation Expectation Rate (T5YIFR): https://fred.stlouisfed.org/series/T5YIFR <br/><br/>
 Unemployment Rate (UNRATE): https://fred.stlouisfed.org/series/UNRATE <br/><br/>
-FRED ECONOMIC INTEREST RATE SPREADS (where I found a lot of datasets, more than I downloaded, very useful for inflation and treasury analysis): https://fred.stlouisfed.org/categories/33446 <br/><br/><br/><br/>
+FRED ECONOMIC INTEREST RATE SPREADS (where I found a lot of datasets, more than I downloaded, very useful for inflation and treasury analysis): https://fred.stlouisfed.org/categories/33446 <br/><br/><br/><br/><br/><br/>
 
 
 Here are the main sites where all the data, charts, and additional datasets can be located: <br/><br/>
@@ -18,7 +18,7 @@ FRED Economic datasets: https://fred.stlouisfed.org/tags/series?t=inflation <br/
 FRED Economic main landing page: https://www.stlouisfed.org/ (also note, FRED economic snapshot is located on main page, with key datasets) <br/><br/>
 FRED Economic Interest Rate Categories: https://fred.stlouisfed.org/categories/22  <br/><br/>
 FRED Economic Money and Banking Categories: https://fred.stlouisfed.org/categories/32991<br/>
-ALL OF THE FRED ECONOMIC CATEGORIES FOR ANY ECONOMIC DATASET YOU COULD EVER WANT: https://fred.stlouisfed.org/categories <br/><br/><br/><br/>
+ALL OF THE FRED ECONOMIC CATEGORIES FOR ANY ECONOMIC DATASET YOU COULD EVER WANT: https://fred.stlouisfed.org/categories <br/><br/><br/><br/><br/><br/>
 
 
 Also, the Bureau of Labor Statistics may  have data of interest: <br/><br/>
@@ -26,7 +26,7 @@ Here is a break down and summary of what the Consumer Price Index is as well as 
 ^^ Here is a definition of CPI from investopedia.com (https://www.investopedia.com/terms/c/consumerpriceindex.asp#:~:text=The%20Consumer%20Price%20Index%20measures,of%20the%20government's%20economic%20policy.): <br/><br/>
 The Consumer Price Index measures the average change in prices over time that consumers pay for a basket of goods and services. <br/><br/>
 CPI is the most widely used measure of inflation and, by proxy, of the effectiveness of the government's economic policy. <br/><br/>
-CPI is important for measuring inflation. There is also the producer price index which may be of interest.  <br/><br/><br/><br/>
+CPI is important for measuring inflation. There is also the producer price index which may be of interest.  <br/><br/><br/><br/><br/>
 
 
 Here are additional charts, data, and datasets form the Bureau of Labor Statistics: https://www.bls.gov/charts/home.htm<br/>
